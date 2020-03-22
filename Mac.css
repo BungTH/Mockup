@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/*-----navigation-----*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar-brand img
+{
+    height: 50px;
+    padding-left: 15px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+}
+#nav-bar ul li a:hover
+{
+    color: #007AFF!important;
+}
+.navbar
+{
+    background:#FFFFFF;
+}
+.navbar-toggler
+{
+    border: none!important;
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+/*-----Products-----*/
+#Surface
+{
+	background-image: url('img/Sur0.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: auto;
+	padding-top: 15vh;
+	padding-bottom: 55vh;
+	<h1 style="text-align: center; color: #ff6600;">
+	SURFACE PRO X
+	</h1><br>
+	<h5 style="text-align: center; color: #ffa366;">
+	A NEW GENERATION OF SURFACE.
+	</h5>
+    </div>
+}
