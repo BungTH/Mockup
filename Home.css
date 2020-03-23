@@ -1,0 +1,182 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/*-----cool scroller-----*/
+body::-webkit-scrollbar
+{
+    width: 4px;
+}
+body::-webkit-scrollbar-track
+{
+    background: #1e1e24;
+}
+body::-webkit-scrollbar-thumb
+{
+    background: #ffffff;
+}
+/*-----navigation-----*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar-brand img
+{
+    width: 7vh;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+}
+#nav-bar ul li a:hover
+{
+    color: #007AFF!important;
+}
+.navbar
+{
+    background:#FFFFFF;
+}
+.navbar-toggler
+{
+    border: none!important;
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 24px;
+}
+/*-----Products-----*/
+#Sur
+{
+    background-image: url('img/Sur0.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+	padding-top: 15vh;
+    padding-bottom: 55vh;
+    top: 1;
+}
+#Swi
+{
+    background-image: url('img/Swi0.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+	padding-top: 15vh;
+    padding-bottom: 55vh;
+    top: 1;
+}
+#XPS
+{
+    background-image: url('img/XPS0.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+	padding-top: 15vh;
+    padding-bottom: 55vh;
+    top: 1;
+}
+#Zen
+{
+    background-image: url('img/Zen0.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+	padding-top: 15vh;
+    padding-bottom: 55vh;
+    top: 1;
+}
+#Linear-BG
+{
+    background-color: rgb(0, 0, 0); 
+    height: 0.5vh; 
+    border-radius: 3px;
+}
+#BG
+{
+    background-color: #2b2828;
+}
+#Label1
+{
+    color: #FF9500;
+    text-align: center;
+}
+#Label2
+{
+    color: #333333;
+    text-align: center;
+}
+#Label3
+{
+    color: #757575;
+    text-align: center;
+}
+#Label4-1
+{
+    color: #c22a2a;
+    text-align: center;
+}
+#Label4-2
+{
+    color: #b62a2a;
+    text-align: center;
+}
+#Label5-1
+{
+    color: #18ad3d;
+    text-align: center;
+}
+#Label5-2
+{
+    color: #13812e;
+    text-align: center;
+}
+#Label6-1
+{
+    color: #2825d6;
+    text-align: center;
+}
+#Label6-2
+{
+    color: #1c1aa0;
+    text-align: center;
+}
+#Label7-1
+{
+    color: #ce26b2;
+    text-align: center;
+}
+#Label7-2
+{
+    color: #921a7e;
+    text-align: center;
+}
+#Label8
+{
+    color: #ffffff;
+    text-align: left;
+}
+/*-----Slider_Don't_Use-----*/
+/*
+#Label1
+{
+    color: #333333;
+}
+#Label2
+{
+    color: #757575;
+}
+#slider
+{
+    width: 100%;
+}
+*/
